@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/bugatti_styling/static/css/main.dd9bb27c.css",
+    "main.js": "/bugatti_styling/static/js/main.d09bac31.js",
+    "static/js/787.e1f6cc70.chunk.js": "/bugatti_styling/static/js/787.e1f6cc70.chunk.js",
+    "static/media/bugatti.png": "/bugatti_styling/static/media/bugatti.67ab3ae47ead1fb94d48.png",
+    "static/media/mesh.png": "/bugatti_styling/static/media/mesh.d676c33468de7fb39052.png",
+    "index.html": "/bugatti_styling/index.html",
+    "main.dd9bb27c.css.map": "/bugatti_styling/static/css/main.dd9bb27c.css.map",
+    "main.d09bac31.js.map": "/bugatti_styling/static/js/main.d09bac31.js.map",
+    "787.e1f6cc70.chunk.js.map": "/bugatti_styling/static/js/787.e1f6cc70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd9bb27c.css",
+    "static/js/main.d09bac31.js"
+  ]
+}
