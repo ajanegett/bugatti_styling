@@ -16,7 +16,9 @@
   width: 800px;
   height: 600px;
   flex-wrap: wrap;
-  padding: 10px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+
 }
 
 body {
